@@ -1,11 +1,11 @@
-#Dataset Preprocessing Repository
+Dataset Preprocessing Repository
 
 Welcome to the Dataset Preprocessing Repository! This repository is dedicated to the preprocessing phase of a dataset, where we explore and learn about the essential steps to follow for effective data preprocessing.
 
-#Overview
+Overview
 In this repository, you will find detailed insights into the preprocessing steps that are crucial for refining and preparing a dataset for analysis or machine learning applications. Each section covers various aspects of preprocessing, providing guidance on handling missing data, feature scaling, encoding categorical variables, and more.
 
-#Contents
+Contents
 Missing Data Handling: Learn techniques to identify and address missing values in your dataset.
 
 Feature Scaling: Explore methods to normalize or standardize features for improved model performance.
@@ -14,7 +14,7 @@ Categorical Variable Encoding: Understand how to convert categorical variables i
 
 Outlier Detection and Removal: Discover strategies to detect and handle outliers in your dataset.
 
-#How to Use
+How to Use
 Feel free to explore each section in the order that suits your needs. The information provided here aims to enhance your understanding of dataset preprocessing techniques and empower you to apply these methods effectively.
 
 Contributions
